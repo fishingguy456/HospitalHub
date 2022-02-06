@@ -1,0 +1,5 @@
+Queen/bathhurst,43.647199,-79.403976,24
+Bathurst/bloor,43.665134,-79.411213,24
+Bloor/jarvis,43.671605,-79.380545,24
+Jarvis/Queen,43.653707,-79.373242,24
+Toronto Western Hospital,43.653319,-79.406412,24
