@@ -7,3 +7,5 @@ run `pip install pygame`
 `npm start` in the front-end folder and `npm start` in the server folder
 
 run `python Hospital_Check.py`
+
+we made this in 4 hours :)
